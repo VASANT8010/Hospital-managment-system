@@ -1,0 +1,20 @@
+# Hospital Management System
+
+A web-based Hospital Management System developed using ASP.NET (C#), HTML, CSS, and JavaScript.  
+The application manages patients, doctors, staff, and appointments with secure authentication and SQL Server database integration to streamline hospital operations and reduce manual work.
+
+## Technologies Used
+- ASP.NET (C#)
+- HTML, CSS, JavaScript
+- SQL Server
+- Entity Framework
+
+## Features
+- User authentication
+- Patient, doctor, and staff management
+- Appointment scheduling
+- Admin dashboard
+- CRUD operations
+
+## License
+MIT License
